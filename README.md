@@ -1,5 +1,5 @@
 # learning
 only for learning purpose
 <br>
-author Pritee khapra
+author Pritee karpe
 
